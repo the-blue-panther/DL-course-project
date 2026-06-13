@@ -105,7 +105,7 @@ The model operates on rolling windows of neural activity and produces a probabil
 > Insert model architecture image here.
 
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](architecture.png)
 
 
 ---
@@ -260,7 +260,7 @@ while maintaining:
 > Insert latency–accuracy plot here.
 
 
-![Latency Accuracy Tradeoff](images/latency_accuracy_tradeoff.png)
+![Latency Accuracy Tradeoff](latency_accuracy_tradeoff.PNG)
 
 ---
 
@@ -269,7 +269,7 @@ while maintaining:
 > Insert throughput plot here.
 
 
-![Throughput vs Latency](images/throughput_latency.png)
+![Throughput vs Latency](throughput_latency.PNG)
 
 
 ---
@@ -299,23 +299,6 @@ Potential extensions include:
 * Online adaptation
 * Edge-device deployment
 * Transformer-based streaming decoders
-
----
-
-# 📁 Repository Structure
-
-```text
-.
-├── Copy_of_Final_DL_Project_(1).ipynb
-├── DL_Project_Report.pdf
-├── DL_presentation_slide.pdf
-├── images/
-│   ├── architecture.png
-│   ├── latency_accuracy_tradeoff.png
-│   ├── throughput_latency.png
-│   └── ...
-└── README.md
-```
 
 ---
 
